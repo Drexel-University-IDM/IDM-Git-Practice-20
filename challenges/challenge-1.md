@@ -14,4 +14,6 @@ Add your entry under the headings below:
 
 ## Red Team
 
+- 🎧 James Zangari
+
 ## Green Team
