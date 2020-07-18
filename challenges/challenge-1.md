@@ -12,6 +12,8 @@ Add your entry under the headings below:
 
 ## Blue Team
 
+- 🐛 Wynn O'Donnell
+
 ## Red Team
 
 - 🎧 James Zangari
