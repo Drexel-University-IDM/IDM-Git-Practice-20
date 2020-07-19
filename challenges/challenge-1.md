@@ -15,5 +15,6 @@ Add your entry under the headings below:
 ## Red Team
 
 - 🎧 James Zangari
+- 🌱 Ben Schenerman
 
 ## Green Team
