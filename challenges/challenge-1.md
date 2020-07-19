@@ -13,10 +13,11 @@ Add your entry under the headings below:
 ## Blue Team
 
 - 🚛 John Eberly
+- 🌱 Ben Schenerman
 
 ## Red Team
 
 - 🎧 James Zangari
-- 🌱 Ben Schenerman
+- 🤖 Erik Martus
 
 ## Green Team
