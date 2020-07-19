@@ -13,6 +13,7 @@ Add your entry under the headings below:
 ## Blue Team
 
 - 🚛 John Eberly
+- 🐚 Devin Taylor
 
 ## Red Team
 
