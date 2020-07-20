@@ -14,11 +14,11 @@ Add your entry under the headings below:
 
 - 🐛 Wynn O'Donnell
 - 🚛 John Eberly
+- 🌱 Ben Schenerman
 - 👽 Mikayla Lisiy
 
 ## Red Team
 
 - 🎧 James Zangari
-- 🌱 Ben Schenerman
 
 ## Green Team
