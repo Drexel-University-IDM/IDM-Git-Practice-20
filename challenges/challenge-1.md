@@ -18,5 +18,6 @@ Add your entry under the headings below:
 
 - 🎧 James Zangari
 - 🌱 Ben Schenerman
+- 💫 Gabrielle Hoover
 
 ## Green Team
