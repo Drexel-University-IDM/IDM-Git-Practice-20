@@ -14,6 +14,7 @@ Add your entry under the headings below:
 
 - 🐛 Wynn O'Donnell
 - 🚛 John Eberly
+- 🐚 Devin Taylor
 - 🌱 Ben Schenerman
 - 👽 Mikayla Lisiy
 
