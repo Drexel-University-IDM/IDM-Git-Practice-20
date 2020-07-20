@@ -23,5 +23,5 @@ Add your entry under the headings below:
 - 🎧 James Zangari
 - 💫 Gabrielle Hoover
 - 🤖 Erik Martus
-
+- 👻 Nick Canavin
 ## Green Team
