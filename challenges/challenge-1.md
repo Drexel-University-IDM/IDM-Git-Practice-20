@@ -14,12 +14,13 @@ Add your entry under the headings below:
 
 - 🐛 Wynn O'Donnell
 - 🚛 John Eberly
-- 🐚 Devin Taylor
 - 🌱 Ben Schenerman
+- 🐚 Devin Taylor
 - 👽 Mikayla Lisiy
 
 ## Red Team
 
 - 🎧 James Zangari
+- 🤖 Erik Martus
 
 ## Green Team
