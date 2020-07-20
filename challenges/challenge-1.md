@@ -21,6 +21,8 @@ Add your entry under the headings below:
 ## Red Team
 
 - 🎧 James Zangari
+- 🌱 Ben Schenerman
+- 💫 Gabrielle Hoover
 - 🤖 Erik Martus
 
 ## Green Team
