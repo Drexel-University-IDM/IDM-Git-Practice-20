@@ -26,5 +26,6 @@ Add your entry under the headings below:
 - 👻 Nick Canavin
 
 ## Green Team
-
 - :soccer: Ahmed Nassar
+- :hatched_chick: Hunter Hampton
+- :icecream: Melissa Gabriele
