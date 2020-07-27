@@ -25,3 +25,4 @@ Add your entry under the headings below:
 - 🤖 Erik Martus
 - 👻 Nick Canavin
 ## Green Team
+- :icecream: Melissa Gabriele
