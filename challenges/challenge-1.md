@@ -24,5 +24,7 @@ Add your entry under the headings below:
 - 💫 Gabrielle Hoover
 - 🤖 Erik Martus
 - 👻 Nick Canavin
+
 ## Green Team
+- :hatched_chick: Hunter Hampton
 - :icecream: Melissa Gabriele
