@@ -1,0 +1,23 @@
+{
+  "name": "IDM-Git-Practice-20",
+  "version": "1.0.0",
+  "description": "Let's practice GIT together 😃.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Erik-Martus/IDM-Git-Practice-20.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Erik-Martus/IDM-Git-Practice-20/issues"
+  },
+  "homepage": "https://github.com/Erik-Martus/IDM-Git-Practice-20#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
