@@ -1,0 +1,1 @@
+I'm having a lot of trouble installing and running gulp. My documents are made I just can't get itn installed properly, so I can't execute the commands.
