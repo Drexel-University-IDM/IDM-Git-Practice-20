@@ -3,8 +3,7 @@
 Navigate to the directory where this file is (in your terminal)
 
 ```bash
-npm init -y
-npm i -D gulp gulp-clean-css
+npm install
 ```
 
 ## usage instructions
