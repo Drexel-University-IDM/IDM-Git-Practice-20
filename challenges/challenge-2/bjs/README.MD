@@ -14,4 +14,4 @@ To minify a css file in `src/` (relative to this directory), navigate to the dir
 gulp css
 ```
 
-then minified versions will appear in `build/css`
+then minified versions will appear in `dist/css`
