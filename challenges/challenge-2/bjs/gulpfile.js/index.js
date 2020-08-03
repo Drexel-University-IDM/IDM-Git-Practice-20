@@ -1,7 +1,9 @@
 const { parallel } = require('gulp');
+const cssTask = require('./tasks/css')
 
-const hello = () => {
-	console.log('hello world')
+function defaultTask(cb) {
+	cb()
 }
 
-exports.default = hello
+exports.css = cssTask
+exports.default = defaultTask
