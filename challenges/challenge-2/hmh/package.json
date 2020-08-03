@@ -1,0 +1,15 @@
+{
+  "name": "hmh",
+  "version": "1.0.0",
+  "description": "**1.** Open your Terminal/Command Prompt and navigate to this folder",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-clean-css": "^4.3.0",
+    "gulp-install": "^1.1.0"
+  }
+}
