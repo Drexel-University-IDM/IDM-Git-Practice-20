@@ -2,17 +2,9 @@
 ### How to test out my minifier
 **1.** Open your Terminal/Command Prompt and navigate to this folder
 
-**2.** Install gulp locally: `npm install --save-dev gulp-install`
+**2.** In the Terminal, run the command: `gulp`
 
-**3.** Install gulp clean css locally: `npm install gulp-clean-css --save-dev`
-
-**4.** Open styles.css using command: `open src/styles.css`
-
-**5.** Make a change to the CSS file and save
-
-**6.** In the Terminal, run the command: `gulp`
-
-**7.** Check out the Minified styles.css in the dist directory: `open dist/
+**3.** Check out the Minified styles.css in the dist directory: `open dist/
 styles.css`
 
 ### How to edit the gulpfile to work for your project
