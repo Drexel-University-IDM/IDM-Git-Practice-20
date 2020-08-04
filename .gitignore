@@ -12,6 +12,7 @@
 # External source #
 ###################
 node_modules
+challenges/challenge-2/**/node_modules
 
 # Packages #
 ############
