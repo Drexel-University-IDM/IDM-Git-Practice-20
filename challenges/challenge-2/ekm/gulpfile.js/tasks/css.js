@@ -17,7 +17,7 @@ function cssTask(cb) {
         })
       )
       .pipe(sourcemaps.write('.'))
-      .pipe(dest(path.join(__dirname, '../../build/css')))
+      .pipe(dest(path.join(__dirname, '../../dist/css')))
   }
   
   module.exports = cssTask
